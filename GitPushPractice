@@ -5,6 +5,7 @@
 	// TODO Auto-generated method stub
 					
 	System.out.println("Wellcome to Continuous Integration ");
+
 		
 }
 		
