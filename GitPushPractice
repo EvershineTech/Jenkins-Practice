@@ -4,8 +4,8 @@
 	public static void main(String[] args) {
 	// TODO Auto-generated method stub
 					
-	System.out.println("Wellcome to Continuous Integrationtest ");
-	System.out.println("Wellcome to Continuous Integrationtest ");
+	System.out.println("Wellcome to Continuous Integration ");
+	System.out.println("Wellcome to Continuous Integration");
 	System.out.println("Wellcome to Continuous Integrationtest ");
 
 
